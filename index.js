@@ -7,7 +7,7 @@ const nodecron = require('node-cron');
 // Variables and Configuration
 
 const ExpressApp = express();
-const ExpressPort = 3000;
+const ExpressPort = 3002;
 const GuildIdentifier = '765601732368531466';
 
 let CurrentEmbedData = null;
