@@ -1,3 +1,16 @@
+/*---------------------------------------------------------------------
+---------------------- Information & Licensing ------------------------
+-----------------------------------------------------------------------
+
+	PROGRAMMER(S): Avenze, (https://github.com/Avenze, avenzey@thefrostcloud.com)
+	OWNER(S): Frostcloud Development, (www.thefrostcloud.com)
+	DETAILS: A small Express app that caches the embed.json file from discordapp.com to prevent SFCore Extended from reaching a Discord API ratelimit 
+	LICENSE: GNU General Public License v3.0
+
+-----------------------------------------------------------------------
+----------------- Variables & Services & Functions --------------------
+---------------------------------------------------------------------*/
+
 // Dependencies
 
 const express = require('express');
